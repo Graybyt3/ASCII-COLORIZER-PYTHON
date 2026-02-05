@@ -1,4 +1,4 @@
-# Graybyte ASCII-COLORIZER-PYTHON
+# GRAYBYTE ASCII-COLORIZER-PYTHON
 
 **One-click tool to turn plain ASCII art into sexy colored f-string blocks**  
 <br><br>
